@@ -1,6 +1,6 @@
 ---
-title: "SOlucionEjercicio"
-author: "Carlos Peris"
+title: "SOlucionEjercicio. Análisis exploratorio de datos"
+author: "Carlos Peris Rodriguez (El lobo feroz)"
 date: "2023-10-11"
 output:
   html_document: default
